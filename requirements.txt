@@ -1,4 +1,3 @@
-absl-python
 charset-normalizer
 click
 colorama
