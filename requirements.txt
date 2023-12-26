@@ -32,7 +32,7 @@ opencv-python==4.8.1.78
 packaging==23.2
 pandas==2.1.4
 Pillow==10.1.0
-protobuf==3.17.3  # Use a version compatible with mediapipe
+protobuf==3.20.1  # Use a version compatible with both mediapipe and streamlit
 pyarrow==14.0.2
 pycparser==2.21
 pydeck==0.8.1b0
